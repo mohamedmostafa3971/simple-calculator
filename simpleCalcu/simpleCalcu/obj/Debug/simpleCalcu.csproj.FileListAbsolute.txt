@@ -1,0 +1,9 @@
+C:\Users\Lenovo\source\repos\simpleCalcu\simpleCalcu\bin\Debug\simpleCalcu.exe.config
+C:\Users\Lenovo\source\repos\simpleCalcu\simpleCalcu\bin\Debug\simpleCalcu.exe
+C:\Users\Lenovo\source\repos\simpleCalcu\simpleCalcu\bin\Debug\simpleCalcu.pdb
+C:\Users\Lenovo\source\repos\simpleCalcu\simpleCalcu\obj\Debug\simpleCalcu.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\simpleCalcu\simpleCalcu\obj\Debug\simpleCalcu.simpcalc.resources
+C:\Users\Lenovo\source\repos\simpleCalcu\simpleCalcu\obj\Debug\simpleCalcu.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\simpleCalcu\simpleCalcu\obj\Debug\simpleCalcu.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\simpleCalcu\simpleCalcu\obj\Debug\simpleCalcu.exe
+C:\Users\Lenovo\source\repos\simpleCalcu\simpleCalcu\obj\Debug\simpleCalcu.pdb
